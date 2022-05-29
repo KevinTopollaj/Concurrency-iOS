@@ -7,5 +7,5 @@
 
 ## Explore structured concurrency in Swift
 
-- [Explore structured concurrency in Swift](Explore-structured-concurrency-in-Swift/README.md)
+- [Explore structured concurrency in Swift](Explore-Structured-Concurrency-in-Swift/README.md)
 
